@@ -1,2 +1,5 @@
 Git learning day 1
 Add notes file
+Git learning day 1
+Add notes file
+Learning about branches and PR
