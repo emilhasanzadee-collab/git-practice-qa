@@ -1,2 +1,4 @@
 Git learning day 1
 Add notes file
+Day 1 completed
+Learning commit and branch
